@@ -6,25 +6,25 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Wrapify",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "Developed a personalized Spotify Wrapped mobile application allowing users to play music and receive personalized insights on top songs/artists and share with others.",
+    image: "/wrap.png",
+    github: "https://github.com/eric1iao/Wrapify",
+    link: "https://wrapify.framer.website/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Smart Fitness Tracker",
+    description: "Created a machine learning model allowing users to classify barbell exercises and count repetitions through accelerometer and gyroscope data from a fitness watch device.",
+    image: "/fitness.jpg",
+    github: "https://github.com/eric1iao/smart-fitness-tracker",
+    link: "https://github.com/eric1iao/smart-fitness-tracker",
   },
   {
-    name: "Kator Family Photos",
+    name: "Personal Website",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
+      "Built this website as a personal project with Node.js, Tailwind CSS, and Vercel.",
+    image: "/IMG_1184.jpg",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
