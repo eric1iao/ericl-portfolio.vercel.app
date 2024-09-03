@@ -34,7 +34,7 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Erdubaen and I am an
+              Hi, my name is Eric and I am an
               <span className="font-bold">{" aspiring"}</span> software engineer
               based in Atlanta, GA.
             </p>
