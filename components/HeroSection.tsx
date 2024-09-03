@@ -22,10 +22,10 @@ const HeroSection = () => {
         </div>
         <div className="md:mt-2 md:w-3/5">
           <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl">
-            Hello, I&#39;m Eric
+            Hi, I&#39;m Eric!
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-            I&#39;m an aspiring{" "}
+            I&#39;m a{" "}
             <span className="font-semibold text-teal-600">Software Engineer</span>
             {" "}based in Atlanta, GA. Always feel free to reach out!
           </p>

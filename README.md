@@ -17,3 +17,4 @@ npm install
 npm run dev
 ```
 "# portfolio-eric" 
+"# ericl-portfolio.vercel.app-" 

@@ -31,11 +31,11 @@ const AboutSection = () => {
         <div className="flex flex-col space-y-10 items-stretch justify-center align-top md:space-x-10 md:space-y-0 md:p-4 md:flex-row md:text-left">
           <div className="md:w-1/2 ">
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
-              Get to know me!
+              Get To Know Me!
             </h1>
             <p>
-              Hi, my name is Eric and I am an
-              <span className="font-bold">{" aspiring"}</span> software engineer
+              Hi, my name is Eric and I am a
+              <span className="font-bold">{" software engineer "}</span> 
               based in Atlanta, GA.
             </p>
             <br />
