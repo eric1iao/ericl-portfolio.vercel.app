@@ -41,13 +41,13 @@ const AboutSection = () => {
             <br />
             <p>
               I am currently a senior at the Georgia Institute of Technology,
-              majoring in a BS in Computer Science.
+              pursuing a Bachelor of Science in Computer Science.
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that help me keep busy.
-              From playing tennis and making music, to weightliting and making YouTube videos,
-              I always try my best to make time for new engaging learning experiences, no matter how they come.🙂
+              A wide range of hobbies and pastimes help me keep busy.
+              From playing tennis and saxophone, to weightlifting and making YouTube videos,
+              I always try to make time for new engaging learning experiences and problem-solving opportunities.🙂
             </p>
             <br />
             

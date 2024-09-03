@@ -25,8 +25,8 @@ const projects = [
     description:
       "Built this website as a personal project with Node.js, Tailwind CSS, and Vercel.",
     image: "/IMG_1184.jpg",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "https://github.com/eric1iao/personal-portfolio",
+    link: "https://ericliao.vercel.app/",
   },
 ]
 
